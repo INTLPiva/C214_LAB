@@ -1,5 +1,5 @@
 const Cars = require('../src/application/car_service');
-const Constants = require('../src/utils/constants');
+const Constants = require('../src/utils/Constants');
 const Utils = require('../src/utils/utils');
 const CarsRepository = require('../src/port/car_repository');
 
