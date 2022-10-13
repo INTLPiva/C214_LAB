@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-const uri = `link`;
+const uri = `mongodb+srv://`;
 
 mongoose.connect(uri, {
     useNewUrlParser: true,
