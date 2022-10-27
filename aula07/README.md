@@ -1,4 +1,4 @@
-# Exercício Aula 6 - API
+# Exercício Aula 7 - Teste Unitário
 
 ## Para executar o códgio
 
@@ -10,7 +10,7 @@ cd C214_LAB
 
 2. Instalar dependências
 ```bash
-cd aula06
+cd aula07
 npm install
 ```
 

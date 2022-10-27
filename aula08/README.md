@@ -1,4 +1,4 @@
-# Exercício Aula 8 - API
+# Exercício Aula 8 - Teste Mock
 
 ## Para executar o códgio
 
